@@ -1,0 +1,32 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environments
+venv/
+.env
+
+# Playwright test outputs
+playwright-report/
+test-results/
+reports/
+*.zip
+
+# Coverage and reports
+htmlcov/
+.coverage
+coverage.xml
+*.log
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db

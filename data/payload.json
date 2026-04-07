@@ -1,0 +1,6 @@
+{
+    "wrong_crdentials":{
+        "username": "wronguser",
+        "password": "wrongpwd"
+    }
+}
